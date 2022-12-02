@@ -1,0 +1,26 @@
+0   symboling    197 non-null    int64  	
+ 1   normalized   197 non-null    object 	int
+ 2   make         197 non-null    object 	string
+ 3   fuel         197 non-null    object 	string
+ 4   aspiration   197 non-null    object 	string
+ 5   doors        197 non-null    object 	string
+ 6   style        197 non-null    object 	string
+ 7   wheels       197 non-null    object 	string
+ 8   engine       197 non-null    object 	string
+ 9   base         197 non-null    float64	flo
+ 10  length       197 non-null    float64	flo
+ 11  width        197 non-null    float64	flo
+ 12  heingt       197 non-null    float64	flo
+ 13  curb         197 non-null    int64  	int
+ 14  engineType   197 non-null    object 	str
+ 15  Cylinders    197 non-null    object 	str
+ 16  engineSize   197 non-null    int64  	int
+ 17  system       197 non-null    object 	str
+ 18  bore         197 non-null    object 	flo
+ 19  stroke       197 non-null    object 	flo
+ 20  compression  197 non-null    float64	int
+ 21  horsepower   197 non-null    object 	int
+ 22  peak         197 non-null    object 	int
+ 23  City         197 non-null    int64  	flo preguntar
+ 24  Higway       197 non-null    int64  	flo preguntar
+ 25  price        197 non-null    object 	int flo
